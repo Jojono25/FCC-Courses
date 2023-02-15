@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='UTF-8'>
+    <link rel='stylesheet' href='styles.css'>
+    <title id=title>Gengar</title>
+  </head>
+  <body>
+    <main id='main'>
+      <h1>Gengar</h1>
+      <div id='img-div'>
+        <img id='image' src='https://img.pokemondb.net/artwork/original/gengar-gen1.jpg'>
+        <div id="img-caption">Concept art do famoso pokemon</div>
+        <div id='tribute-info'>
+          Gengar (Japanese: ゲンガー Gangar) is a dual-type Ghost/Poison Pokémon introduced in Generation I.
+
+It evolves from Haunter when traded or when exposed to a Linking CordLA. It is the final form of Gastly.
+
+Gengar has two other forms.
+
+It can Mega Evolve into Mega Gengar using the Gengarite.
+It has a Gigantamax form.
+        </div>
+        <a id='tribute-link' href='https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pok%C3%A9mon)' target='_blank'>Mais infos...</a>
+      </div>
+
+    </main>
+  </body>
+</html>
